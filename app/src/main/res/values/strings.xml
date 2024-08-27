@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Shanks</string>
+    <string name="bookmark_is_empty">Bookmark is empty!</string>
+    <string name="company">Company: %1$s</string>
+    <string name="location">Location: %1$s</string>
+    <string name="salary">Salary: %1$s</string>
+    <string name="call">Call</string>
+    <string name="company_name">Company: %1$s</string>
+    <string name="location_name">Location: %1$s</string>
+    <string name="salary_amt">Salary: %1$s</string>
+</resources>
